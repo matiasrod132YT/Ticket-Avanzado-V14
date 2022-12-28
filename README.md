@@ -1,4 +1,12 @@
 # Ticket-Avanzado-V14
 
-- Ticket.js = Commands/Moderacion
+DEPENDENCIAS:
+- mongose
+- discord-html-transcripts
+
+INSTRUCCIONES:
+
+- ticket.js = Commands/Moderacion
 - ticketEvets.js = Events/ticket
+- ticketSchema.js = schemas/tickets
+- userSchema.js = schemas/tickets
